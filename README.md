@@ -26,7 +26,7 @@ Note:
 - Common ground was used.
 
 ## Connection Diagram
-![Connection Diagram](docs/connection-diagram.png)
+![Image alt](https://github.com/ArN00b-1337/gps-usbttl-test/blob/8c2e25125e57907375d2d6e1cce6ef2cee6f7281/connection-diagram.jpeg)
 
 ## Software / Tools Used
 - Python 3
@@ -44,4 +44,4 @@ Note:
 
 ## Sample Command
 ```bash
-python3 scripts/read_gps.py
+python3 gps_read.py
